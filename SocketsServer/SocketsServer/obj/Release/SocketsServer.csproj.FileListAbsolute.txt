@@ -1,0 +1,17 @@
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\bin\Release\SocketsServer.exe.config
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\bin\Release\SocketsServer.exe
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\bin\Release\SocketsServer.pdb
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\bin\Release\Newtonsoft.Json.dll
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\bin\Release\Newtonsoft.Json.xml
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\obj\Release\MainWindow.g.cs
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\obj\Release\App.g.cs
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\obj\Release\SocketsServer_MarkupCompile.cache
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\obj\Release\SocketsServer_MarkupCompile.lref
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\obj\Release\MainWindow.baml
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\obj\Release\SocketsServer.g.resources
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\obj\Release\SocketsServer.Properties.Resources.resources
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\obj\Release\SocketsServer.csproj.GenerateResource.cache
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\obj\Release\SocketsServer.csproj.CoreCompileInputs.cache
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\obj\Release\SocketsServer.csproj.CopyComplete
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\obj\Release\SocketsServer.exe
+C:\Users\HP PAVILION\Desktop\SocketsServer\SocketsServer\obj\Release\SocketsServer.pdb
